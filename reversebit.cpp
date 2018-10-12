@@ -1,3 +1,5 @@
+#Reverse Bit solution for 32 bit unsigned int
+
 unsigned int Solution::reverse(unsigned int A) {
     unsigned int x, ans=0, i=1;
     
